@@ -1,0 +1,5 @@
+name: VoidGen
+version: 1.0
+main: gg.packetloss.voidgen.VoidGen
+load: STARTUP
+api-version: 1.14
